@@ -31,6 +31,6 @@ Videos are shown to show the execution of the dictionary attack on the Key, the 
 
 # Software Requirements 
 
-Python 3
-Mission Planner
-Packet Sender
+- Python 3
+- Mission Planner
+- Packet Sender
