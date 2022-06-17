@@ -9,7 +9,7 @@ Script that replicates the operations performed on CyberChef for the encrypting 
 
 Script that allows you to create and replicate a valid signature for MAVLink messages, starting from an initial seed and entering all the information necessary for the creation of the signature: Signature = sha256_48 (secret_key + header + payload + CRC + Link ID + timestamp).
 
-#dictionaryKey and dictionarySignature
+# dictionaryKey and dictionarySignature
 
 Scripts that allow you to perform a dictionary attack. The "key" file carries out the attack starting from the secret key recovered in the exchange of messages. The "signature" file carries out the attack starting from the signature exchanged in the messages, without the need for the secret key.
 
